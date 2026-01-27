@@ -1,7 +1,7 @@
 #1
-x = 1    # int
-y = 2.8  # float
-z = 1j   # complex
+x = 1   
+y = 2.8  
+z = 1j   
 
 print(type(x))
 print(type(y))
@@ -64,7 +64,7 @@ print(c)
 print(type(a))
 print(type(b))
 print(type(c))
-#Note: You cannot convert complex numbers into another number type.
+
 
 #7
 import random
